@@ -1,0 +1,3 @@
+create database demis;
+
+GRANT ALL ON demis.* TO 'mysql'@'%';
